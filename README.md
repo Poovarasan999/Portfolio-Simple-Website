@@ -7,7 +7,7 @@ This project currently includes **Home** and **Contact** pages and is designed a
 ---
 
 ## 🚀 Live Preview
-🔗 https://your-username.github.io/your-repo-name/
+🔗 https://poovarasan999.github.io/portfolio-simple-website/
 
 ---
 
